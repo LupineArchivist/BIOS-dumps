@@ -1,0 +1,29 @@
+3D PRO H0 V1.21J BIOS 8MB MEM: Winbond W27C512-70 832AD281271001VE (plastic-package, not UV-erasable, underside markings: TAIWAN VE1 AD2S127100)
+
+64V 3DX BIOS: A AMIC A276308-70 9902I EA034 (plastic-package, not UV-erasable, underside embossed markings: T M N G2)
+
+1878-EVEN REV-G1-44: AM27C256-205DC 042PRLE (c) 1986 AMD (ceramic-package, UVEPROM, underside markings: MALAYSIA 9041UP w 97566)
+
+1878-ODD REV-G1-44: AM27C256-205DC 052PYLG (c) 1986 AMD (ceramic-package, UVEPROM, underside markings: MALAYSIA 9052RP w 97566)
+
+1993 CIRRUS LOGIC and QUADTEL BIOS: CL-GD5904-20DC-A (c1992,Cirrus Logic Inc. (c)1992,Quadtel Corp. (plastic-package, not UV-erasable, underside markings: 9331 C38T4 TAIWAN)
+
+A0100PL U5 V2-21 VM c 1987: TOSHIBA TMM27512D-20 (ceramic-package, UVEPROM)
+
+A0100PM U22 V2-21 VM c 1987: TOSHIBA TMM27512D-20 (ceramic-package, UVEPROM)
+
+Adaptec INC 589211-00 B BIOS 6E00 1995: TMS27PC512-15NL BLU51A5L3P (plastic-package, not UV-erasable, ink-stamp under label: F24; underside markings: 27512GU 76093-05)
+
+Award bios pci-pnp 586 031171943 1995: Winbond W29EE011-15 96021 (plastic-package, not UV-erasable, underside markings: TAIWAN TD25466000 UE)
+
+Award BIOS PCI-PNP 686 257598708 1998: E3 A7VP2 1004F SyncMOS 0034 F29C51002T-90PC (plastic-package, not UV-erasable, underside markings: V07442G TAIWAN)
+
+Cardex1 VGA BIOS: HF-HG 1038-1001 9712 TAIWAN UTR50846.1C - Chip ID 007C00AE - 28-PIN DIP, NOT UV-ERASABLE
+
+DSC-6 FEED: TMS2764-25JL LHP8736 (ceramic-package, UVEPROM, two chips - identical) 
+
+SIIG Enhanced BIOS: NEC JAPAN D27C256D-20 8609ED107 (ceramic-package, UVEPROM)
+
+Venus S3 Virge GX 2-01 1996 REV-B: HT23C256AR400 AT7BPT75V2.01.13B (plastic-package, not UV-erasable, underside markings: 9745K0222) U3
+
+Willow Peripherals VGA-CTV 1.0 1994: N B9452GF NM27C256Q 200 (ceramic-package, UVEPROM)

@@ -1,0 +1,14 @@
+U11 RATE: MP-10 RATE CHIP V 1.7 8/27/95, ST M27C256B-15FI BHHAT 9509B KOREA (Underside markings: M756 4035)
+U12 ZIP-ZONE: MP10-ZIP S.O. 989 V1.2, ST M27C256B-15FI BHHAJ 9427B KOREA (Underside markings: M756 6750)
+
+Chips are stored in the bottom-middle drawer of the green-plastic parts-drawers.
+
+Data from Rate Chip:
+
+IMS Postal Scale Ver.2.0. - June 19, 1990.
+by K.C.Lam,
+Modular Engineering Ltd.
+Suite 1205, Tower 1,
+China Hong Kong City,
+33 Canton Road, Tsimshatsui,
+Hong Kong.
